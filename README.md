@@ -70,6 +70,9 @@ https://developers.facebook.com/tools/explorer/
 
 And run from terminal using command python faceapp.py
 
+Dependencies : facepy module 
+
+get it using command line code : `sudo pip install facepy`
 Note: Only supports linux os and requires python 2.7.x.
 
 
