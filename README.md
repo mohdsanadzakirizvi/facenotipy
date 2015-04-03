@@ -70,7 +70,7 @@ https://developers.facebook.com/tools/explorer/
 
 And run from terminal using command python faceapp.py
 
-Note: Only supports linux os.
+Note: Only supports linux os and requires python 2.7.x.
 
 
 
