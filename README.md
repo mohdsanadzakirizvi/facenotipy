@@ -4,6 +4,7 @@ Demo:
 
 Notifications 
 
+![alt tag](https://raw.githubusercontent.com/mohdsanadzakirizvi/facenotipy/images/1.png)
 
 The program uses facepy for facebook GraphAPIs and pynotify module for creating a popup.
 
@@ -11,7 +12,7 @@ Right now its in early stage so you need to create your own access_token from fa
 https://developers.facebook.com/tools/explorer/
 
 1.click on the Get Access Token button
-
+![alt tag](https://raw.githubusercontent.com/mohdsanadzakirizvi/facenotipy/images/2.png)
 
 
 
@@ -21,7 +22,7 @@ https://developers.facebook.com/tools/explorer/
 
 
 2.when the pop up appears select all these
-
+![alt tag](https://raw.githubusercontent.com/mohdsanadzakirizvi/facenotipy/images/3.png)
 
 
 
@@ -46,6 +47,7 @@ https://developers.facebook.com/tools/explorer/
 
 
 3.in extended permissions select all these
+![alt tag](https://raw.githubusercontent.com/mohdsanadzakirizvi/facenotipy/images/4.png)
  
 
 
