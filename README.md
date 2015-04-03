@@ -76,5 +76,8 @@ get it using command line code : `sudo pip install facepy`
 Note: Only supports linux os and requires python 2.7.x.
 
 
+LICENSE: This project is licensed under terms of MIT(http://opensource.org/licenses/MIT) license.
+
+
 
 
