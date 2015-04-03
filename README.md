@@ -4,7 +4,7 @@ Demo:
 
 Notifications 
 
-![alt tag](https://raw.githubusercontent.com/mohdsanadzakirizvi/facenotipy/images/1.png)
+![alt tag](https://github.com/mohdsanadzakirizvi/facenotipy/blob/master/images/1.png)
 
 The program uses facepy for facebook GraphAPIs and pynotify module for creating a popup.
 
