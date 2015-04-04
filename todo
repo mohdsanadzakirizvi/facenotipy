@@ -1,0 +1,5 @@
+1.implement cross platform support.
+2.provide real time notification.
+3.provide reply to notification option.
+4.allow status update option and most of the application UI to be not in terminal but in the form of toasts.
+5.the app should run in the background.
