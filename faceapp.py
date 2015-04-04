@@ -14,7 +14,7 @@ def filter(res,type):
         result = data[0]['message']
         return result
     elif type == 'feed':
-        result = data[0]['story']
+        result = data[0]['message']+'\n'+data[0]['description']
         return result
     elif type == 'inbox':
         msg = data[0]['comments']['data'][0]['message']
