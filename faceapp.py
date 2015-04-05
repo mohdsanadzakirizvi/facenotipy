@@ -1,7 +1,7 @@
 import pynotify
 from facepy import GraphAPI
 #making connection
-graph = GraphAPI('access_token')
+graph = GraphAPI('access_token')#replace with your access token 
 #switch type menu 
 choice = input('What you want? \n1.status \n2.feed \n3.posts \n4.inbox \n5.post a status update \n6.notifications \n enter your choice: \n')
 #func to filter the recieved json/dictionary object and extract required data 
